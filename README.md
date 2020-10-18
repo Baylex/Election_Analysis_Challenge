@@ -15,7 +15,7 @@ A Colorado Board of Elections employee assigned the following tasks to the analy
 9. Determine the winner of the election based on popular vote.
 
 ## Resources 
-- Data Source : election_results.csv
+- Data Source : election_results.csv, election_analysis.txt, pypoll_challenge.py
 - Software : Python 3.7.9, Visual Studio Code version 1.50.1
 
 ## Challenge Overview of Results
