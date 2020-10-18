@@ -43,8 +43,8 @@ After reviewing the 369,711 total votes, Denver County had the highest voter tur
 ## Challenge Summary
 In this election, the winner had a supermajority, but the criteria was for a popular vote, greater than or equal to 50.1%.  This script could be easily modified to run a check for a supermajority, greater than or equal to 66.7% of the votes as the election criteria.  A second way to change the code, with the county data, weights could be assigned to the counties to represent the weights of the electoral college votes.  With these 2 changes to the script, perhaps the election commission would consider a business proposal to make these two adjustments, and the script could calculate almost any election.  
 
-## Deliverable 1 Terminal Printout of Results
+## Deliverable 1: Terminal Printout of Results
 ![Pic 1](https://github.com/Baylex/Election_Analysis_Challenge/blob/main/Terminal_Deliverable1.PNG)
 
-## Deliverable 2 Text File Printout of Results
+## Deliverable 2: Text File Printout of Results
 ![Pic 2](https://github.com/Baylex/Election_Analysis_Challenge/blob/main/Text_Devliverable2.PNG)
