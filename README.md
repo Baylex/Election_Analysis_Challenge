@@ -1,9 +1,7 @@
 # Election_Analysis_Challenge
-UT Data Boot Camp Module 3 Challenge Using Python to Analyze Election Results
+UT McCombs Data Boot Camp Module 3: PyPoll with Python
 
-## Project overview
-A Colorado Board of Elections employee assigned the following tasks to the analyst to complete the election audit of a recent local congressional elections.  After the winners were determined, the representation of county votes was also calculated. 
-
+## Overview
 1. Calculate the total number of votes cast.
 2. Get the complete list of county votes.
 3. Calculate the total number of votes by county. 
@@ -14,11 +12,14 @@ A Colorado Board of Elections employee assigned the following tasks to the analy
 8. Calculate the percentage of votes each candidate von.
 9. Determine the winner of the election based on popular vote.
 
-## Resources 
+## Purpose
+A Colorado Board of Elections employee assigned the following tasks to the analyst to complete the election audit of a recent local congressional elections.  After the winners were determined, the representation of county votes was also calculated. 
+
+## PythonData Environment 
 - Data Source : election_results.csv, election_analysis.txt, pypoll_challenge.py
 - Software : Python 3.7.9, Visual Studio Code version 1.50.1
 
-## Challenge Overview of Results
+## Results
 1. Total Votes in the Colorado Board of Elections: 369,711
 
 2. Votes by County:
@@ -40,11 +41,11 @@ A Colorado Board of Elections employee assigned the following tasks to the analy
  
 After reviewing the 369,711 total votes, Denver County had the highest voter turnout, and the winner of the election is Diana DeGette with 272,892 votes representing a supermajority of 73.8% of all votes, meeting the popular majority criteria of greater than or equal to 50.1%. 
  
-## Challenge Summary
+## Summary
 In this election, the winner had a supermajority, but the criteria was for a popular vote, greater than or equal to 50.1%.  This script could be easily modified to run a check for a supermajority, greater than or equal to 66.7% of the votes as the election criteria.  A second way to change the code, with the county data, weights could be assigned to the counties to represent the weights of the electoral college votes.  With these 2 changes to the script, perhaps the election commission would consider a business proposal to make these two adjustments, and the script could calculate almost any election.  
 
-## Deliverable 1: Terminal Printout of Results
+## Terminal Printout of Results
 ![Pic 1](https://github.com/Baylex/Election_Analysis_Challenge/blob/main/Terminal_Deliverable1.PNG)
 
-## Deliverable 2: Text File Printout of Results
+## Text File Printout of Results
 ![Pic 2](https://github.com/Baylex/Election_Analysis_Challenge/blob/main/Text_Devliverable2.PNG)
