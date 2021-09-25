@@ -1,5 +1,18 @@
 # Election_Analysis_Challenge
-UT McCombs Data Boot Camp Module 3: PyPoll with Python
+PyPoll with Python
+
+## Main Objective
+1. Navigate to folders on your computer using the command line.
+2. Read and extract data from CSV files.
+3. Determine the difference between Python data types, like integers, floating-point decimal numbers, and strings.
+4. Perform mathematical operations using data types.
+5. Declare variables using different data types.
+6. Create and use data structures like lists, tuples, and dictionaries.
+7. Create and use decision and repetition statements.
+8. Create and use Boolean and logical operators.
+9. Write data to an output file and print the file.
+
+
 
 ## Overview
 1. Calculate the total number of votes cast.
